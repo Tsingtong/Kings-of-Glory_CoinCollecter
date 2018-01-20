@@ -51,13 +51,13 @@ def do_money_work():
         sleep(1)
 ## part_3   妲己说废话状态
 #scene_3-7
-    logging.debug('#2 跳过...\n')
+    logging.debug('#2 跳过...')
     for i in range(part_3_wait):
         tap_screen(1600, 980)
         sleep(0.2)
 ## part_4   过关页面展示状态
 #scene_8
-    logging.debug('#3 确认结果')
+    logging.debug('#3 确认结果\n')
     tap_screen(1600, 970)
     sleep(part_4_wait)
 
