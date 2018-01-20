@@ -13,10 +13,10 @@ device_x, device_y = 1920, 1080
 game_mode = 1
 
 # 各步骤等待间隔
-part_1_wait = 9     # 点1次  共9秒     等游戏开始
-part_2_wait = 36    # 点36次 共36秒    开始刷怪
-part_3_wait = 6     # 点6次  共1.2秒   随缘法乱点
-part_4_wait = 3     # 点1次  共3秒     等页面跳转
+part_1_wait = 12     # 点1次  共9秒     等游戏开始
+part_2_wait = 18    # 点36次 共36秒    开始刷怪
+part_3_wait = 5     # 点6次  共1.2秒   随缘法乱点
+part_4_wait = 0.5     # 点1次  共3秒     等页面跳转
 
 # 刷金币次数
 repeat_times = 60
